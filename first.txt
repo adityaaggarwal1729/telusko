@@ -1,6 +1,6 @@
 Hello World
 This is my first commit
-Aditya Aggarwal
+Adi Aggarwal
 
 1st Edit
 Tamil nadu
