@@ -1,6 +1,14 @@
 Hello World
 This is my first commit
-Adi Aggarwal
+
+*Punjab*
+Aditya Aggarwal
+
+Aditya Aggarwal
 
 1st Edit
+*Sachin Tendulkar*
 Tamil nadu
+
+Learning branching
+will mixup sentences. start and end with *.
